@@ -1,0 +1,98 @@
+PARTS FOR THE FINAL / PERMANENT BUILD (Recommended & Correct)
+Interconnect & mounting
+
+0.1" (2.54 mm) male header pins
+
+For soldering onto Heltec board
+
+0.1" (2.54 mm) female header pins
+
+To socket the Heltec on the perfboard (recommended)
+
+Permanent circuit board
+
+Proto / perfboard – 60×40 mm
+
+Single-sided copper pads
+
+This becomes the permanent controller board
+
+Wiring
+
+Internal (inside enclosure):
+
+22–24 AWG solid-core wire
+
+Signal lines (GPIO, I2C)
+
+Short, stationary runs
+
+External / moving wires:
+
+22 AWG stranded wire
+
+Battery leads
+
+Solar panel leads
+
+Weather sensor leads
+
+RJ11 integration (important)
+
+RJ11 breakout boards (×2)
+
+Accept SparkFun RJ11 sensor plugs
+
+Break out to solder pads / pins
+
+Makes wiring clean and serviceable
+
+Protection & reliability
+
+Inline fuse holder (5×20 mm) with 22 AWG leads
+
+2 A slow-blow (T2A) 5×20 mm glass fuses
+
+Battery positive lead protection
+
+Environmental hardening
+
+Cable glands (PG7 / PG9)
+
+For solar + weather sensor cables
+
+Heat-shrink tubing (assorted sizes)
+
+Silicone sealant or hot glue
+
+Strain relief + moisture protection
+
+🟡 OPTIONAL BUT STRONGLY RECOMMENDED
+
+These aren’t blockers, but they improve reliability and serviceability.
+
+Electrical
+
+Resistor assortment
+
+10 kΩ (pull-ups / pull-downs)
+
+100 kΩ (ADC dividers if needed)
+
+Terminal blocks (2-pin or 3-pin)
+
+For power or sensor connections
+
+Mechanical
+
+18650 battery holder
+
+Safer and easier battery swaps
+
+Mounting standoffs / screws
+
+Secure perfboard inside enclosure
+
+Label tape or paint pen
+
+Label GPIOs, sensor ports, fuse rating

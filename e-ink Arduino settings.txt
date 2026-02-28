@@ -1,0 +1,17 @@
+e-ink Arduino settings
+
+1) Keep your current Arduino settings
+
+Use what’s working now:
+
+Board: ESP32S3 Dev Module
+
+USB Mode: Hardware CDC and JTAG
+
+Upload Mode: UART0 / Hardware CDC
+
+PSRAM: OPI PSRAM
+
+Flash Size: 8MB
+
+Use Serial0 for all debug prints
