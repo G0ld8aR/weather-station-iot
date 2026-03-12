@@ -41,19 +41,3 @@ So far, this project has accomplished a few things:
 - Modular RJ11-based weather sensor integration
 - Expandable architecture for future communication features
 
-## Repository Structure
-
-Current top-level contents include the following: `arduino/`, `diagrams/`, `parts list.txt`, and `e-ink Arduino settings.txt`. :contentReference[oaicite:1]{index=1}
-
-Suggested structure going forward to polish out
-
-```text
-weather-station-iot/
-├── arduino/                # Arduino sketches and test code
-├── diagrams/               # Wiring diagrams, block diagrams, layout images
-├── docs/                   # Build notes, troubleshooting logs, deployment notes
-├── enclosure/              # STL, CAD exports, and enclosure planning files
-├── images/                 # Photos, screenshots, and project visuals
-├── parts list.txt          # Current parts and permanent-build planning
-├── e-ink Arduino settings.txt
-└── README.md
