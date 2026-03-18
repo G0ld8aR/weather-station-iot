@@ -4,7 +4,7 @@ A custom ESP32-based weather station project focused on collecting local environ
 
 ## Project Overview
 
-This project is a hands-on IoT weather station build centered around an ESP32 platform and modular sensor integration. The goal is to create a reliable, solar-friendly, field-ready system that can measure and display core weather data such as temperature, humidity, wind, and rainfall.
+Lately I've been getting back into soldering electronic components. I've done a couple of 'plug-n-play' kits that didnt involve much thought besides just soldering. I had the idea to start expanding my horizons and try being an electronic engineer. I've always been slightly demused at the weather on my phone beacause it never seemed true to the area around my home. So here, I combine my new hobby with my disdain of inaccurate weather reporting and create my own weather station. This project is a hands-on IoT weather station build centered around an ESP32 platform and modular sensor integration. My goal is to create a reliable, solar-friendly, field-ready system that can measure and display core weather data such as temperature, humidity, wind, and rainfall.
 
 The build is being developed in stages, starting with bench testing and hardware validation, then moving into permanent wiring, enclosure design, display integration, and final outdoor deployment.
 
